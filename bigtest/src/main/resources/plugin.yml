@@ -1,0 +1,9 @@
+name: BigTest
+main: com.chromium.bigtest.Main
+version: "0.2"
+author: Chromium
+api-version: 1.17
+commands:
+  zoo:
+    description: Spawns in a set of creatures.
+    usage: /zoo <amount> <hostile>
